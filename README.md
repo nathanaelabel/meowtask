@@ -16,10 +16,9 @@ Meow Task is a **simple and fun to-do list application** with a **cat-themed UI*
 ---
 
 ## 🛠️ Technologies Used  
-- **Framework:** Laravel 10  
-- **Backend:** PHP  
-- **Database:** MySQL  
-- **Frontend:** Blade, Tailwind CSS (if applicable)  
+- **Framework:** Laravel 10 
+- **Language:** PHP 
+- **Database:** MySQL 
 
 ---
 
